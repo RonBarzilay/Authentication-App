@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "AIzaSyDrWFs5kI4eSChfkNB39f4KIgvyHi7CC84";
+const API_KEY = ""; // get from Firebase
 
 // This is general authenticatation for both
 // Sign-in & Sign-up
